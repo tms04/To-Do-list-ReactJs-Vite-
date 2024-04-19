@@ -1,0 +1,16 @@
+h1{
+    font-weight: bold;
+    font-size: 3em;
+    margin: 0.5em;
+}
+input{
+    width: 100%;
+    padding: 0;
+}
+.kg-button{
+    min-width: 5em;
+}
+
+.dateAndTime{
+    text-align: end;
+}
